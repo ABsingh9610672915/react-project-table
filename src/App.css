@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+  padding: 0px;
+  margin: 0px;
+  /* background-color: yellowgreen; */
+}
+.Header{
+  background-color: chartreuse;
+}
+.main{
+  align-items: center;
+  justify-content: center;
+  height: 20px;
+  /* flex-grow: wrap; */
+  flex-wrap: wrap;
+  padding: 14px;
+}
+
+
